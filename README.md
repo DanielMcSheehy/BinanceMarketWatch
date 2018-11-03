@@ -22,4 +22,6 @@ and bitcoin value of the miniumum value you want to be notified.
 
 Run application with `node index.js`
 
+To stop application in command line, do control C 
+
 Ignore any cli messages about parsing issues. 
