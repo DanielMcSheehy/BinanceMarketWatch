@@ -4,7 +4,8 @@
 install npm (https://blog.teamtreehouse.com/install-node-js-npm-windows)
  
 Using command line, go to desired directory to put project
-then run `git clone https://github.com/DanielMcSheehy/BinanceMarketWatch.git`
+then run 
+`git clone https://github.com/DanielMcSheehy/BinanceMarketWatch.git`
 
 Then run `npm i` to install node dependencies
 
