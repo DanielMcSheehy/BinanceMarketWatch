@@ -20,6 +20,10 @@ Copy the key that is given to `config.json` under "email_api_key"
 In the config file, put desired binance coin symbol you want to be notified for, 
 and bitcoin value of the miniumum value you want to be notified. 
 
+You will be texted for any buy order worth more than the 
+BTC value of `BITCOIN_LARGE_BUY_ORDER_FILTER`. Make this value bigger to 
+receive less applications (but you might miss lower buy order opertunities).
+
 Run application with `node index.js`
 
 To stop application in command line, do control C 
